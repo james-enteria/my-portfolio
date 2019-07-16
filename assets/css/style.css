@@ -5,8 +5,15 @@ body {
 	background-color: #363638;
 }
 #nav a {
-	color: #faa320 ;
+	color: #24fa07 ;
+}
 
+li > a > button {
+	background-color: #24fa07;
+}
+
+#proj {
+	color: #363638;
 }
 
 .logo {
@@ -41,13 +48,17 @@ button {
 	
 	border-radius: 20px;
 }
+
+.hello {
+	opacity: 0.7;
+}
 hr {
 	background-color: white;
 }
 
 
 .dp {
-	height: 200px;
+	height: 10em;
 	border-radius: 50%;
 }
 
@@ -61,7 +72,7 @@ hr {
 
 .proj-img {
 	border-radius: 50%;
-	height: 200px;
+	height: 19em;
 	margin: 20px;
 }
 
